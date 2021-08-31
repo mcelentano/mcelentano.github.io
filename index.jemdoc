@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Michael Celentano
+
+== About me 
+
+~~~
+{}{img_left}{profile.jpg}{}{250px}{300px}{}
+
+I am a fifth year PhD student at the [https://statistics.stanford.edu/ Stanford Statistics Department], advised by Professor [https://web.stanford.edu/~montanar/ Andrea Montanari]. I am fortunate to be supported by the [https://www.nsfgrfp.org/ NSF Graduate Research Fellowship]. 
+In the summer of 2019, I held an internship at [https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/ Microsoft Research New England], and was fortunate to be hosted by [http://vsyrgkanis.com/ Vasilis Syrgkanis] and [https://gregmlewis.com/ Greg Lewis]. Before my PhD, I received a bachelor's degree in mathematics and physics in 2014 and a master's degree in electrical engineering in 2016, both from Stanford University. 
+
+In August 2021, I will be starting as a [https://miller.berkeley.edu/fellowship/members/current-miller-fellows Miller Fellow] at UC Berkeley, hosted by Professor [https://people.eecs.berkeley.edu/~wainwrig/ Martin Wainwright].
+
+I am broadly interested in problems in high-dimensional statistics, and in particular in optimal estimation under computational constraints, exact asymptotics, and inference in high-dimensional models. I help organize the [https://sites.google.com/view/ocis/ Online Causal Inference Seminar]. Outside of statistics, I enjoy biking, hiking, and reading. 
+
+Feel free to email me at mcelen (at) stanford (dot) edu.
+
+Here you may find [https://drive.google.com/file/d/1pGN7X5nJr-VbpmhB4QLZj_AOkcHy57TY/view?usp=sharing my CV].
+~~~
+
+
+
+
