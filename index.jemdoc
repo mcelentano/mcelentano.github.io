@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Michael Celentano
+
+== About me 
+
+~~~
+{}{img_left}{profile.jpg}{}{250	px}{375px}{}
+
+I am a Miller Fellow at UC Berkeley working in the [https://statistics.berkeley.edu/ Statistics Department] and hosted by [https://computing.mit.edu/martin-wainwright/ Martin Wainwright] and [https://www.stat.cmu.edu/~ryantibs/index.html Ryan Tibshirani]. I am fortunate to also be mentored by [http://people.eecs.berkeley.edu/~yss/ Yun Song]. I am broadly interested in problems in high-dimensional statistics. In particular, I have spent of a lot of time working on exact asymptotics, debiasing, and inference in high-dimensional models. I am also interested in the interplay between statistical estimation and computational constraints. Recently, I have started working on applications in biology.
+
+In Fall 2021, I participated as a visiting postdoc in the [https://simons.berkeley.edu/programs/computational-complexity-statistical-inference Computational Complexity of Statistical Inference] program at the Simons Institute. From April 2020 to September 2021, I helped organize the [https://sites.google.com/view/ocis/ Online Causal Inference Seminar].
+
+Prior to the Miller Fellowship, I completed my PhD at the [https://statistics.stanford.edu/ Stanford Statistics Department], advised by [https://web.stanford.edu/~montanar/ Andrea Montanari] and supported in part by the [https://www.nsfgrfp.org/ NSF Graduate Research Fellowship]. My thesis developed new results and methods in high-dimensional linear regression using exact asymtotics and received the Theodore W. Anderson Theory of Statistics Award. In the summer of 2019, I held an internship at [https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/ Microsoft Research New England], and was fortunate to be hosted by [http://vsyrgkanis.com/ Vasilis Syrgkanis] and [https://www.gregmlewis.com/ Greg Lewis]. I received a bachelor's degree in mathematics and physics in 2014 and a master's degree in electrical engineering in 2016, both from Stanford University.
+
+Outside of statistics, I enjoy biking, cooking, and reading.
+
+Feel free to reach me at my email address mcelentano (at) berkeley (dot) edu.
+~~~
+
+
+
+
