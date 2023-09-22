@@ -1,2 +1,5 @@
 # file system
 .DS_Store
+
+# Compiled site
+_site/
