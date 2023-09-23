@@ -16,11 +16,11 @@ M. Celentano, M. J. Wainwright. Challenges of the inconsistency regime: Novel de
 
 S. Paik, M. Celentano, A. Green, R. Tibshirani. Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test. Preprint, 2023+. [arxiv](https://arxiv.org/abs/2309.02422)
 
-M. Celentano. Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy. Preprint, 2022+. [arxiv](https://arxiv.org/abs/2208.09550)
+M. Celentano. Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy. **Major revision at Annals of Probability**, 2022+. [arxiv](https://arxiv.org/abs/2208.09550)
 
-M. Celentano, C. Cheng, A. Montanari. The high-dimensional asymptotics of first order methods with random data. Preprint, 2021+. [arxiv](https://arxiv.org/abs/2112.07572)
+M. Celentano, C. Cheng, A. Montanari. The high-dimensional asymptotics of first order methods with random data. **Major revision at Annals of Applied Probability**, 2021+. [arxiv](https://arxiv.org/abs/2112.07572)
 
-M. Celentano, A. Montanari. CAD: Debiasing the Lasso with inaccurate covariate model. Preprint, 2021+. [arxiv](https://arxiv.org/abs/2107.14172)
+M. Celentano, A. Montanari. CAD: Debiasing the Lasso with inaccurate covariate model. **Major revision at Journal of Royal Statistical Society, Series B**, 2021+. [arxiv](https://arxiv.org/abs/2107.14172)
 
 M. Celentano, T. Misiakiewicz, A. Montanari. Minimum complexity interpolation in random features models. Preprint, 2021. [arxiv](https://arxiv.org/abs/2103.15996) 
 
