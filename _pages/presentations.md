@@ -60,7 +60,7 @@ American Causal Inference Conference, May 24, 2023.
 * *Debiasing in missing data models with inaccurate nuisance parameters.*  
 Workshop on Computational-Statistical Interplay in Machine Learning, MIT, May 23, 2023.
 
-* *Debiasing in missing data models with inaccurate nuisance parameters.*
+* *Debiasing in missing data models with inaccurate nuisance parameters.*  
 International Indian Statistical Association Conference, June 3, 2023.
 
 * *Correlation-adjusted debiasing: Debiasing the Lasso with inaccurate covariate model.*  
