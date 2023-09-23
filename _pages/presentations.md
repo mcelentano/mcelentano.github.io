@@ -10,7 +10,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Invited Presentations
+# Invited Presentations
 
 * *Challenges of the inconsistency regime: Novel debiasing methods for missing data models.*  
 IMS Young Mathematical Scientist Forum, November 20 -- 23, 2023 (upcoming).
@@ -49,7 +49,7 @@ Youth in High Dimensions, ICTP, June 18, 2021.
 International Seminar on Selective Inference, September 10, 2020.  
 [(Recording)](https://drive.google.com/file/d/14TkGSjqAC72xifKruB6q0rurjKMwf1Kk/view?usp=drive_link) [(Slides)](https://drive.google.com/file/d/12tL_AqWeLAVmbkXFtmxM1ZMjSSOFN9pL/view?usp=sharing)
 
-## Contributed Oral Presentations
+# Contributed Oral Presentations
 
 * *Debiasing in missing data models with inaccurate nuisance parameters.*  
 Joint Statistical Meetings, August 9, 2023
