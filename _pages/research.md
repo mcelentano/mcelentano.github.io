@@ -35,4 +35,4 @@ M. Celentano, A. Montanari. Fundamental barriers to high-dimensional regression 
 
 M. Celentano, A. Montanari, Y. Wu. The estimation error of general first order methods. **COLT**, 2020. [conference](https://proceedings.mlr.press/v125/celentano20a) [arxiv](https://arxiv.org/abs/2002.12903)
 
-M. Celentano. Approximate separability of symmetrically penalized least squares in high dimensions: characterization and consequences. **Information and Inference: A Journal of the IMA, 2020**. [journal](https://academic.oup.com/imaiai/article/10/3/1105/6103239) [arxiv](https://arxiv.org/abs/1906.10319) 
+M. Celentano. Approximate separability of symmetrically penalized least squares in high dimensions: characterization and consequences. **Information and Inference: A Journal of the IMA**, 2020. [journal](https://academic.oup.com/imaiai/article/10/3/1105/6103239) [arxiv](https://arxiv.org/abs/1906.10319) 
