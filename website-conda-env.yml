@@ -1,0 +1,8 @@
+name: website
+channels:
+  - defaults
+dependencies:
+  - jupyter
+
+# After creating environment from yml file, run from within activated environment
+#     pip install pybtex
