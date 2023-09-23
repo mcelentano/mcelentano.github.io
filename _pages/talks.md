@@ -22,7 +22,7 @@ Online Causal Inference Seminar, October 24, 2023 (upcoming).
 Computational Complexity of Statistical Problems Workshop, MIT, June 14, 2023.  
 [(Youtube)](https://www.youtube.com/watch?v=cMPivyfl9mA)
 
-* *Discussant for ``A modern central limit theorem for the classical doubly robust estimator: variance inflation and beyond.''*  
+* *Discussant for ''A modern central limit theorem for the classical doubly robust estimator: variance inflation and beyond.''*  
 Main speaker: Pragya Sur.  
 International Seminar on Selective Inference, April 28, 2022.  
 [(Recording)](https://drive.google.com/file/d/1KHVCuReGedQ7Ehc-oMhxkWXA5PyksHHg/view?usp=drive_link) (My discussion begins at minute 46)
@@ -31,7 +31,7 @@ International Seminar on Selective Inference, April 28, 2022.
 Computational Complexity of Statistical Inference Reunion, Simons Institute, December 13, 2021.
 
 * *Correlation-adjusted debiasing: Debiasing the Lasso with inaccurate covariate model.*  
-* Neyman Seminar, Department of Statistics, University of California, Berkeley, December 1, 2021.  
+Neyman Seminar, Department of Statistics, University of California, Berkeley, December 1, 2021.  
 [(Recording)](https://drive.google.com/file/d/1lyMziFO8a88_ds2-RuFCmeChKmICVM9q/view?usp=sharing)
 
 * *Correlation-adjusted debiasing: Debiasing the Lasso with inaccurate covariate model.*  
