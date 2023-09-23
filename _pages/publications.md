@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +9,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+# Publications and preprints
 
 M. Celentano, A. Montanari, Y. Wei. **The Lasso with general Gaussian designs with applications to hypothesis testing.** Accepted to the Annals of Statistics, 2023. [arxiv](https://arxiv.org/abs/2007.13716) [talk](https://drive.google.com/file/d/1l2yFo5ZIAcNpS_s8t2AXg-1Rz-RAa7fo/view)
 
