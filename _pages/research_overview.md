@@ -18,7 +18,7 @@ from rich sequencing data in biology to various imaging modalities in medicine t
 Machine learning models have dramatically enhanced our ability to make accurate predictions on the basis these complex covariates.
 Often, however, the end goal is not a prediction, but rather estimation and uncertainty quantification for a few scientifically meaningful parameters like a causal effect or a conditional association.
 The mathematical framework for understanding how to leverage predictions for inference on target parameters is semi-parametric statistics.
-In this framework, we call the parameters of interest, such as causal effects, ''target parameters,'' and the high-dimensional parameters describing the prediction models ''nuisance parameters.''
+In this framework, we call the parameters of interest, such as causal effects, ''target parameters,'' and the high-dimensional or non-parametric parameters describing the prediction models ''nuisance parameters.''
 
 Typically, this literature focuses on cases where some of the nuisance parameters can be estimated extremely well, sometimes so well that errors in nuisance estimation negligibly degrade estimation of the target parameter.
 In practice, it may not be safe to assume that nuisance parameter estimates are this accurate.
