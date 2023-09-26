@@ -23,9 +23,9 @@ In this framework, we call the parameters of interest, such as causal effects, '
 Typically, this literature focuses on cases where some of the nuisance parameters can be estimated extremely well, sometimes so well that errors in nuisance estimation negligibly degrade estimation of the target parameter.
 In practice, it may not be safe to assume that nuisance parameter estimates are this accurate.
 
-I am currently leveraging ''exact asymptotics'' to develop semi-parametric methods and guarantees in settings where high-dimensional parameters cannot be estimated consistently. ``Exact asymptotics'' refers to a set of mathematical tools for deriving precise characterizations of the errors made by complex, high-dimensional statistical methods, especially in cases where there errors are not small. My work has led to novel algorithms for estimation and inference of [conditional correlations](https://arxiv.org/abs/2107.14172) and [population means with missing data](https://arxiv.org/abs/2309.01362) with high-dimensional nuisance parameters.
+I am currently leveraging ''exact asymptotics'' to develop semi-parametric methods and guarantees in settings where high-dimensional parameters cannot be estimated consistently. ''Exact asymptotics'' refers to a set of mathematical tools for deriving precise characterizations of the errors made by complex, high-dimensional statistical methods, especially in cases where there errors are not small. My work has led to novel algorithms for estimation and inference of [conditional correlations](https://arxiv.org/abs/2107.14172) and [population means with missing data](https://arxiv.org/abs/2309.01362) with high-dimensional nuisance parameters.
 
-The long term goal is to find corrections to existing methods which mitigate bias resulting from errors in complex predictions models, improving estimation and enabling valid inference.
+The long-term goal is to find practical methods to mitigate bias and quantify uncertainty resulting from errors in complex predictions models, improving estimation and enabling valid inference.
 
 Representative papers: [here](https://arxiv.org/abs/2007.13716), [here](https://arxiv.org/abs/2107.14172), and [here](https://arxiv.org/abs/2309.01362).
 
