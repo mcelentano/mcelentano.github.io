@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-The following are some of my current active areas of research.
+The following are some current active areas of research.
 
 ## Semi-parametric statistics in inconsistency regimes
 
@@ -27,10 +27,31 @@ I am currently leveraging ''exact asymptotics'' to develop semi-parametric metho
 
 The long-term goal is to find practical methods to mitigate bias and quantify uncertainty resulting from errors in complex predictions models, improving estimation and enabling valid inference.
 
-Representative papers: [here](https://arxiv.org/abs/2007.13716), [here](https://arxiv.org/abs/2107.14172), and [here](https://arxiv.org/abs/2309.01362).
+Representative papers can be found [here](https://arxiv.org/abs/2007.13716) and especially [here](https://arxiv.org/abs/2107.14172) and [here](https://arxiv.org/abs/2309.01362).
 
+## High-dimensional variational Bayes
+ 
+Computationally, Markov Chain Monte Carlo (MCMC) methods for performing inference in high-dimensional statistical models can be prohibitively expensive.
+Variational methods are an approximate approach to Bayesian inference which can be substantially more efficient.
+Unlike MCMC methods, which are based on sampling, variational method are based on optimization.
+
+Variational methods approximate posterior distributions by a simpler class of distributions. A popular choice is is the ''mean-field approximation,'' in which subsets of variables are approximated as independent. It has been observed both empirically and theoretically that the mean-field approximation often leads to underestimates of posterior uncertainty, which can lead to excessively short credible intervals and inflated error rates in variable selection.
+
+In certain high-dimensional settings, including generalized linear regression, Bayesian PCA, and community detection, corrections to naive mean field approaches based on the TAP free energy from statistical physics have been proposed. I am interested in rigorously analyzing these approaches, and in particular, establishing that they provide an efficient approach to computing consistent approximations of posterior marginals.
+
+Perhaps interestingly, this line of work has some relationship to the ''semi-parametric statistics in inconsistency regimes'' direction described above. Appropriately viewed, naive mean field's underestimation of posterior uncertainty results from insufficient accounting of the impact of errors in certain ''nuisance parameters.''
+
+Although variational inference is typically viewed as an alternative to sampling, recently there has been interest in its use as as sub-routine of sampling algorithm. A novel sampling approach called ''stochastic localization'' has recently been proposed which is able to sample from complex, high-dimensional probability distributions given access to a sub-routine which computes moments of that (and related) distributions. This approach is related to diffusion models.
+Variational methods may be used to compute these moments. My work on the TAP free energy for $\mathbb{Z}_2$-synchronization established the viability of this approach for sampling from the Sherrington-Kirkpatrick Gibbs measure, a quintessential model of a random, non-convex optimization problem studied extensively in physics and computer science. This resolved a conjecture of Alaoui, Selkke, and Montanari and established the possibility of sampling from this distribution efficiently throughout the regime in which it had been widely conjecture to be possible.
+ 
 ## Dynamics and optimality of first order methods
 
-## Variational Bayesian inference
-
 ## Fitness inference in phylogenetics
+
+
+
+
+
+
+
+
