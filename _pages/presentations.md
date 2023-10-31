@@ -16,7 +16,8 @@ author_profile: true
 IMS Young Mathematical Scientist Forum, November 20 -- 23, 2023 (upcoming).
 
 * *Challenges of the inconsistency regime: Novel debiasing methods for missing data models.*  
-Online Causal Inference Seminar, October 24, 2023 (upcoming).
+Online Causal Inference Seminar, October 24, 2023.
+[(Youtube)](https://www.youtube.com/watch?v=1mF0JZIA2r8)
 
 * *Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy.*  
 Computational Complexity of Statistical Problems Workshop, MIT, June 14, 2023.  
