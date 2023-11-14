@@ -16,18 +16,17 @@ M. Celentano, M. J. Wainwright. Challenges of the inconsistency regime: Novel de
 
 S. Paik, M. Celentano, A. Green, R. Tibshirani. Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test. Preprint, 2023+. [arxiv](https://arxiv.org/abs/2309.02422)
 
-M. Celentano. Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy. **Minor revision at Annals of Probability**, 2022+. [arxiv](https://arxiv.org/abs/2208.09550)
-
 M. Celentano, C. Cheng, A. Montanari. The high-dimensional asymptotics of first order methods with random data. **Major revision at Annals of Applied Probability**, 2021+. [arxiv](https://arxiv.org/abs/2112.07572)
 
 M. Celentano, A. Montanari. CAD: Debiasing the Lasso with inaccurate covariate model. **Major revision at Journal of Royal Statistical Society, Series B**, 2021+. [arxiv](https://arxiv.org/abs/2107.14172)
 
 M. Celentano, T. Misiakiewicz, A. Montanari. Minimum complexity interpolation in random features models. Preprint, 2021. [arxiv](https://arxiv.org/abs/2103.15996) 
 
-
 # Publications
 
-M. Celentano, A. Montanari, Y. Wei. The Lasso with general Gaussian designs with applications to hypothesis testing. **Accepted to the Annals of Statistics**, 2023. [arxiv](https://arxiv.org/abs/2007.13716) [talk](https://drive.google.com/file/d/1l2yFo5ZIAcNpS_s8t2AXg-1Rz-RAa7fo/view)
+M. Celentano. Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy. **Accepted at Annals of Probability**, 2023. [arxiv](https://arxiv.org/abs/2208.09550)
+
+M. Celentano, A. Montanari, Y. Wei. The Lasso with general Gaussian designs with applications to hypothesis testing. **Accepted at Annals of Statistics**, 2023. [arxiv](https://arxiv.org/abs/2007.13716) [talk](https://drive.google.com/file/d/1l2yFo5ZIAcNpS_s8t2AXg-1Rz-RAa7fo/view)
 
 M. Celentano, Z. Fan, S. Mei. Local convexity of the TAP free energy and AMP convergence for Z2-synchronization. **Annals of Statistics**, 2023. [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-2/Local-convexity-of-the-TAP-free-energy-and-AMP-convergence/10.1214/23-AOS2257.short) [arxiv](https://arxiv.org/abs/2106.11428)
 
