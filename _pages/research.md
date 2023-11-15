@@ -12,6 +12,9 @@ author_profile: true
 
 # Preprints
 
+M. Celentano, L. Lin, Z. Fan, and S. Mei.
+Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [preprint](https://drive.google.com/file/d/1ceYx2EqRLh4fFzqZQew7lSN8U0BoTo7c/view?usp=sharing)
+
 M. Celentano, M. J. Wainwright. Challenges of the inconsistency regime: Novel debiasing methods for missing data models. Preprint, 2023+. [arxiv](https://arxiv.org/abs/2309.01362) [github](https://github.com/mcelentano/Debiasing_for_missing_data)
 
 S. Paik, M. Celentano, A. Green, R. Tibshirani. Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test. Preprint, 2023+. [arxiv](https://arxiv.org/abs/2309.02422)
@@ -37,9 +40,5 @@ M. Celentano, A. Montanari, Y. Wu. The estimation error of general first order m
 M. Celentano. Approximate separability of symmetrically penalized least squares in high dimensions: characterization and consequences. **Information and Inference: A Journal of the IMA**, 2020. [journal](https://academic.oup.com/imaiai/article/10/3/1105/6103239) [arxiv](https://arxiv.org/abs/1906.10319) 
 
 # In preparation
-
-M. Celentano, L. Lin, Z. Fan, and S. Mei.
-Mean-field variational inference with the TAP free energy: Geometric
-  and statistical properties in linear models. In preparation.
 
 M. Celentano, W. Dewitt, S. Prillo, and Y. Song. Efficiently simulating phylogenies from partially observed multi-type birth-death processes. In preparation.
