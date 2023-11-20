@@ -13,7 +13,7 @@ author_profile: true
 # Preprints
 
 M. Celentano, L. Lin, Z. Fan, and S. Mei.
-Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [preprint](https://drive.google.com/file/d/1ceYx2EqRLh4fFzqZQew7lSN8U0BoTo7c/view?usp=sharing)
+Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
 
 M. Celentano, M. J. Wainwright. Challenges of the inconsistency regime: Novel debiasing methods for missing data models. Preprint, 2023+. [arxiv](https://arxiv.org/abs/2309.01362) [github](https://github.com/mcelentano/Debiasing_for_missing_data)
 
