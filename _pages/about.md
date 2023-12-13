@@ -20,7 +20,7 @@ I develop algorithms for analyzing high-dimensional data. I am particularly inte
 
 In the short term, my primary research objective is to flesh out a rich theory and methodological toolbox for semi-parametric estimation and inference in ''inconsistency regimes.'' These are regimes in which nuisance parameter are high-dimensional and unstructured, so cannot be estimated well: see [here](https://arxiv.org/abs/2309.01362), [here](https://arxiv.org/abs/2107.14172), [here](https://arxiv.org/abs/2007.13716).
 
-Since Spring 2022, I have worked with Yun Song on tree-based methods to estimate fitness in evolving populations, and I will continue to work on statistical problems in biology in the future.
+Since Spring 2022, I have worked with Yun Song on tree-based methods to estimate fitness in evolving populations, and am broadly interested in high-dimensional statistical problems in biology.
 
 
 
