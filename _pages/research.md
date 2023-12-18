@@ -29,7 +29,7 @@ M. Celentano, T. Misiakiewicz, A. Montanari. Minimum complexity interpolation in
 
 M. Celentano. Sudakov-Fernique post-AMP, and a new proof of the local convexity of the TAP free energy. **Accepted at Annals of Probability**, 2023. [arxiv](https://arxiv.org/abs/2208.09550)
 
-M. Celentano, A. Montanari, Y. Wei. The Lasso with general Gaussian designs with applications to hypothesis testing. **Accepted at Annals of Statistics**, 2023. [arxiv](https://arxiv.org/abs/2007.13716) [talk](https://drive.google.com/file/d/1l2yFo5ZIAcNpS_s8t2AXg-1Rz-RAa7fo/view)
+M. Celentano, A. Montanari, Y. Wei. The Lasso with general Gaussian designs with applications to hypothesis testing. **Annals of Statistics**, 2023. [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-5/The-Lasso-with-general-Gaussian-designs-with-applications-to-hypothesis/10.1214/23-AOS2327.short) [arxiv](https://arxiv.org/abs/2007.13716) [talk](https://drive.google.com/file/d/1l2yFo5ZIAcNpS_s8t2AXg-1Rz-RAa7fo/view)
 
 M. Celentano, Z. Fan, S. Mei. Local convexity of the TAP free energy and AMP convergence for Z2-synchronization. **Annals of Statistics**, 2023. [journal](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-2/Local-convexity-of-the-TAP-free-energy-and-AMP-convergence/10.1214/23-AOS2257.short) [arxiv](https://arxiv.org/abs/2106.11428)
 
