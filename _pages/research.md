@@ -39,6 +39,6 @@ M. Celentano, A. Montanari, Y. Wu. The estimation error of general first order m
 
 M. Celentano. Approximate separability of symmetrically penalized least squares in high dimensions: characterization and consequences. **Information and Inference: A Journal of the IMA**, 2020. [journal](https://academic.oup.com/imaiai/article/10/3/1105/6103239) [arxiv](https://arxiv.org/abs/1906.10319) 
 
-# In preparation
+# Available upon request
 
-M. Celentano, W. Dewitt, S. Prillo, and Y. Song. Efficiently simulating phylogenies from partially observed multi-type birth-death processes. In preparation.
+M. Celentano, W. Dewitt, S. Prillo, and Y. Song. Efficient phylodynamic simulation from arbitrarily large populations. **Draft available upon request.**
