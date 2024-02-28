@@ -12,6 +12,8 @@ author_profile: true
 
 # Preprints
 
+M. Celentano, W. S. Dewitt, S. Prillo, and Y. Song. Exact and efficient phylodynamic simulation from arbitrarily large populations, 2024+. [arXiv](https://arxiv.org/abs/2402.17153)
+
 M. Celentano, L. Lin, Z. Fan, and S. Mei.
 Mean-field variational inference with the TAP free energy: Geometric and statistical properties in linear models. Preprint, 2023+. [arXiv](https://arxiv.org/abs/2311.08442)
 
